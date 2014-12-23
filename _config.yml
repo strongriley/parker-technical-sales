@@ -1,7 +1,7 @@
 title:            Parker Technical Sales
 description:      Fluid Solutions
-logo:             site-logo.png
-disqus_shortname: 
+# logo:             site-logo.png
+disqus_shortname:
 search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
@@ -12,35 +12,32 @@ owner:
   avatar:         bio-photo.jpg
   email:          sales@parkertechnicalsales.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:
+  facebook:
+  github:
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Products
+    url: /products/
+  - title: Manufacturers
+    url: /manufacturers/
+  - title: Contact
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles

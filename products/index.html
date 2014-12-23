@@ -1,0 +1,18 @@
+---
+layout: page
+title: Products
+---
+
+{% capture content %}{% include products/index.md %}{% endcapture %}
+{{ content | markdownify }}
+
+<ul>
+{% for product in site.data.products %}
+    <li>
+    <a href="{{ product.slug }}">
+        <strong>{{ product.name }}</strong>
+    </a>
+        {% if product.description %}<br>{{ product.description }}{% endif %}
+    </li>
+{% endfor %}
+</ul>

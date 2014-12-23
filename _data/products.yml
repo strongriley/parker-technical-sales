@@ -1,0 +1,29 @@
+- name: Fittings
+  description: Tube, Pipe, Weld, Face Seal, High Purity, Quick Connects, Hose Barb, Push-On Hose
+  slug: fittings
+
+- name: Valves
+  description: Instrumentation, Pressure Relief, Industrial, High Purity & Thermal Control
+  slug: valves
+
+- name: Regulators
+  slug: regulators
+
+- name: Pump Systems
+  slug: pump-systems
+
+- name: Sensors & Switches & Transmitters
+  description: (Flow, Pressure, Level & Temperature)
+  slug: sensors
+
+- name: Hose & Tubing
+  slug: hose-tubing
+
+- name: Steam Traps
+  slug: steam-traps
+
+- name: Chemical Analysis Systems
+  slug: chemical-analysis-systems
+
+- name: Fabricated Components
+  slug: fabricated-components
