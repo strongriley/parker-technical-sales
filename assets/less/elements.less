@@ -57,15 +57,26 @@ figure {
     }
   }
   &.fourth {
-    @media @large {
-      img {
-        width: 150px;
-        float: left;
-        margin-right: 10px;
-      }
-      figcaption {
-        clear: left;
-      }
+    img {
+      float: left;
+      margin-right: 10px;
+
+      @media @large, @medium { width: 150px !important; }
+      @media @medium { &:nth-child(2n) { clear: left; } }
+    }
+    figcaption {
+      clear: left;
+    }
+    &.nobreak {
+      img { width: 20%; }
+    }
+
+    a:nth-child(4n) { img { margin-right: 0; } }
+    img:nth-child(4n) { margin-right: 0; }
+
+    @media @mobile {
+      a:nth-child(3) { img { clear: left; } }
+      img:nth-child(3) { clear: left; }
     }
   }
 }

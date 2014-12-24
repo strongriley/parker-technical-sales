@@ -73,8 +73,8 @@ body {
 }
 .no-js #site-nav {
     display: block;
-}    
-#nav-toggle { 
+}
+#nav-toggle {
     z-index: 9999;
     display: block;
     vertical-align: top;
@@ -146,7 +146,7 @@ body {
     -webkit-animation-delay: .75s;
     -moz-animation-delay: .75s;
     -o-animation-delay: .75s;
-    animation-delay: .75s;    
+    animation-delay: .75s;
     a { color: @parker-color; }
 }
 .site-description {
@@ -198,6 +198,13 @@ body {
         max-width: 100%;
         margin-right: 0;
         margin-left: 0;
+    }
+    &.subtitle {
+        h1 { margin-bottom: 0; }
+        h2 {
+            margin-top: 0;
+            margin-bottom: 2em;
+        }
     }
 }
 .entry-tags {
@@ -365,13 +372,13 @@ span + .entry-title {
         .font-rem(14);
         line-height: 2.5;
     }
-    a { 
+    a {
         padding: 4px 6px;
         margin: 2px;
         background-color: lighten(@black, 90);
         .rounded(4px);
         text-decoration: none;
-        span { 
+        span {
             vertical-align: super;
             .font-rem(10);
         }
