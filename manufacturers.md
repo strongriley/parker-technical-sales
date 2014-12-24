@@ -2,6 +2,7 @@
 layout: page
 permalink: /manufacturers/
 title: Manufacturers
+redirect_from: manufacturers.html
 ---
 
 Parker Technical Sales carry the following manufacturers:
