@@ -13,7 +13,7 @@
   slug: pump-systems
 
 - name: Sensors & Switches & Transmitters
-  description: (Flow, Pressure, Level & Temperature)
+  description: Flow, Pressure, Level & Temperature
   slug: sensors
 
 - name: Hose & Tubing
