@@ -7,17 +7,25 @@ redirect_from:
   - quote.php
 ---
 
-## Parker Technical Sales
-<a href="https://www.google.com/maps/place/2424+Armstrong+St,+Livermore,+CA+94551/@37.6995834,-121.8123017,17z/data=!3m1!4b1!4m2!3m1!1s0x808fe89d3f02cfc9:0x71d211b67f0afb54" target="_blank">
-2424 Armstrong Street  
-Livermore, CA 94551  
-</a>
-Phone: (925) 362-9450  
-Fax: (925) 955-9520  
-[sales@parkertechnicalsales.com](mailto:sales@parkertechnicalsales.com)
+![Office]({{ site.url }}/images/office.jpg)
+{: .pull-right}
+
+<p class="clearfix">
+  <a href="https://www.google.com/maps/place/2424+Armstrong+St,+Livermore,+CA+94551/@37.6995834,-121.8123017,17z/data=!3m1!4b1!4m2!3m1!1s0x808fe89d3f02cfc9:0x71d211b67f0afb54" target="_blank">
+  2424 Armstrong Street<br>
+  Livermore, CA 94551<br>
+  </a>
+  Phone: (925) 362-9450<br>
+  Fax: (925) 955-9520<br>
+  <a href="mailto:sales@parkertechnicalsales.com">
+    sales@parkertechnicalsales.com
+  </a>
+</p>
 
 
-## Request a Quote
+<a name="form"></a>
+
+<h2 class="clearfix">Request a Quote</h2>
 <form class="contact" action="//formspree.io/eponymous@rileystrong.com" method="POST">
     <label for="name">Full name</label>
     <input id="name" type="text" name="name" placeholder="Your name">
