@@ -3,9 +3,6 @@ layout: page
 title: Products
 ---
 
-{% capture content %}{% include products/index.md %}{% endcapture %}
-{{ content | markdownify }}
-
 <ul>
 {% for product in site.data.products %}
     <li>
