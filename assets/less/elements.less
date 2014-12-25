@@ -45,15 +45,14 @@ figure {
     }
   }
   &.third {
-    @media @large {
-      img {
-        width: 200px;
-        float: left;
-        margin-right: 10px;
-      }
-      figcaption {
-        clear: left;
-      }
+    img {
+      float: left;
+      margin-right: 10px;
+
+      @media @large, @medium { width: 200px; }
+    }
+    figcaption {
+      clear: left;
     }
   }
   &.fourth {

@@ -59,6 +59,11 @@ Parker Technical Sales carry the following manufacturers:
     <img src="{{ site.url }}/images/logos/logo-epiflow.png">
   </a>
 </figure>
+<figure class="third">
+  <a target="_blank" href="http://www.intempco.com/en-us/">
+    <img src="{{ site.url }}/images/logos/logo-intempco.gif">
+  </a>
+</figure>
 
 ## Hose &amp; Tubing
 <figure class="third">
@@ -78,7 +83,7 @@ Parker Technical Sales carry the following manufacturers:
 </figure>
 
 ## Chemical Analysis Systems
-<figure>
+<figure class="third">
   <a target="_blank" href="http://nextchem-analyzers.com/">
     <img src="{{ site.url }}/images/logos/logo-nextchem.png">
   </a>
