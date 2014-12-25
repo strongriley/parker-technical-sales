@@ -81,10 +81,3 @@ Parker Technical Sales carry the following manufacturers:
     <img src="{{ site.url }}/images/logos/logo-ogontz.png">
   </a>
 </figure>
-
-## Chemical Analysis Systems
-<figure class="third">
-  <a target="_blank" href="http://nextchem-analyzers.com/">
-    <img src="{{ site.url }}/images/logos/logo-nextchem.png">
-  </a>
-</figure>

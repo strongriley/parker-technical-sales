@@ -5,9 +5,6 @@ Applications are focused on the petroleum, metal pre-treatment, metal
 finishing, chemical, mining, semiconductor, and wastewater treatment
 industries.
 
-![Nextchem chemical analysis]({{ site.url }}/images/products/nextchem-chemical-analysis.jpg)
-{: .pull-right}
-
 ### Capabilities:
 
 - Titration
