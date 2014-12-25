@@ -3,3 +3,24 @@ form.contact {
         margin-bottom: 1em;
     }
 }
+
+div.desktop-2-up {
+    .clearfix();
+    div {
+        width: 310px;
+        float: left;
+        margin-right: 10px;
+        &:last-child { margin-right: 0; }
+    }
+    @media @mobile {
+        div:last-child { clear: left; }
+    }
+}
+
+img.office {
+    float: right;
+    @media @mobile {
+        margin-top: 1em;
+        float: none;
+    }
+}
