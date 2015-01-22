@@ -37,13 +37,6 @@ Parker Technical Sales carry the following manufacturers:
   </a>
 </figure>
 
-## Pump Systems
-<figure>
-  <a target="_blank" href="http://www.precisionpumpingsystems.com/">
-    <img src="{{ site.url }}/images/logos/logo-precision-pumping-systems.png">
-  </a>
-</figure>
-
 ## Sensors &amp; Switches &amp; Transmitters
 <figure class="fourth">
   <a target="_blank" href="http://www.koboldusa.com/">

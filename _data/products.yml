@@ -9,9 +9,6 @@
 - name: Regulators
   slug: regulators
 
-- name: Pump Systems
-  slug: pump-systems
-
 - name: Sensors & Switches & Transmitters
   description: Flow, Pressure, Level & Temperature
   slug: sensors
