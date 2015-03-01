@@ -6,10 +6,23 @@ layout: nil
     <url>
         <loc>{{ site.url }}</loc>
     </url>
-    
-    {% for post in site.posts %}
+
     <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
+      <loc>{{ site.url }}/products</loc>
     </url>
-    {% endfor %}
+    <url>
+      <loc>{{ site.url }}/manufacturers</loc>
+    </url>
+    <url>
+      <loc>{{ site.url }}/contact</loc>
+    </url>
+    <url>
+      <loc>{{ site.url }}/contact</loc>
+    </url>
+
+{% for product in site.data.products %}
+  <url>
+    <loc>{{ site.url}}/products/{{ product.slug }}</loc>
+  </url>
+{% endfor %}
 </urlset>
