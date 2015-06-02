@@ -74,3 +74,10 @@ Parker Technical Sales carry the following manufacturers:
     <img src="{{ site.url }}/images/logos/logo-ogontz.png">
   </a>
 </figure>
+
+## Cushioned Clamps, Quick Coupling and Support Systems
+<figure>
+  <a target="_blank" href="https://www.zsi-inc.com/">
+    <img src="{{ site.url }}/images/logos/logo-zsi.jpg">
+  </a>
+</figure>
