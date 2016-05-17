@@ -1,23 +1,5 @@
 ---
 layout: page
 title: Products
+redirect_to: /
 ---
-
-
-<figure class="fourth nobreak">
-    <img src="{{ site.url }}/images/products/hylok-ball-valves.jpg">
-    <img src="{{ site.url }}/images/products/hylok-tube-fittings.jpg">
-    <img src="{{ site.url }}/images/products/kobold-paddle-flow-sensor.jpg">
-    <img src="{{ site.url }}/images/products/neon-controls-regulators.jpg">
-</figure>
-
-<ul>
-{% for product in site.data.products %}
-    <li>
-    <a href="{{ product.slug }}">
-        <strong>{{ product.name }}</strong>
-    </a>
-        {% if product.description %}<br>{{ product.description }}{% endif %}
-    </li>
-{% endfor %}
-</ul>

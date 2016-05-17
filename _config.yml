@@ -36,8 +36,8 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: Products
-    url: /products/
+  - title: About
+    url: /about/
   - title: Manufacturers
     url: /manufacturers/
   - title: Contact
