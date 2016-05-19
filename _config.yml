@@ -36,10 +36,10 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
   - title: Manufacturers
     url: /manufacturers/
+  - title: About
+    url: /about/
   - title: Contact
     url: /contact/
   - title: Request a Quote
