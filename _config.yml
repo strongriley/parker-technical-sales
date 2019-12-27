@@ -44,6 +44,8 @@ links:
     url: /contact/
   - title: Request a Quote
     url: /contact/#form
+  - title: Terms & Conditions
+    url: /terms-and-conditions
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
