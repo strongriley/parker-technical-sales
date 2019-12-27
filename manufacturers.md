@@ -56,6 +56,9 @@ Parker Technical Sales carry the following manufacturers:
   <a target="_blank" href="http://www.intempco.com/en-us/">
     <img src="{{ site.url }}/images/logos/logo-intempco.gif">
   </a>
+  <a target="_blank" href="https://micronicsflowmeters.com/">
+    <img src="{{ site.url }}/images/logos/logo-micronics.jpg">
+  </a>
 </figure>
 
 ## Hose &amp; Tubing
