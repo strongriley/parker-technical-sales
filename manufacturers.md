@@ -25,8 +25,8 @@ Parker Technical Sales carry the following manufacturers:
   <a target="_blank" href="http://www.ogontz.com/">
     <img src="{{ site.url }}/images/logos/logo-ogontz.png">
   </a>
-  <a target="_blank" href="http://www.triadprocess.com/">
-    <img src="{{ site.url }}/images/logos/logo-triad.png">
+  <a target="_blank" href="https://svf.net/">
+    <img src="{{ site.url }}/images/logos/logo-svf.png">
   </a>
 </figure>
 
@@ -68,6 +68,9 @@ Parker Technical Sales carry the following manufacturers:
   </a>
   <a target="_blank" href="http://www.hylokusa.com/">
     <img src="{{ site.url }}/images/logos/logo-hylok.png">
+  </a>
+  <a target="_blank" href="https://www.mtohose.com">
+    <img src="{{ site.url }}/images/logos/logo-mto.png">
   </a>
 </figure>
 
